@@ -1,4 +1,4 @@
-1. This is 15 puzzle solve Breadthfirst Search algorithm using python 
+1. This is 15 puzzle solver with Breadthfirst Search algorithm method using python 
 2. First, Import all the required libraries such as collecions and queue.
 3. create a class node to define the action and algorithm that need to be performed.
 4. create a class puzzle which defines all the steps that need to be performed
